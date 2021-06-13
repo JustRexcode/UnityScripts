@@ -1,3 +1,3 @@
 # UnityScripts
-Here you have the scripts that I used in my tutorials!
+Here, I share all the scripts and script machines that I made in my video to here!
 Enjoy!
